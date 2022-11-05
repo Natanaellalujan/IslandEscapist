@@ -12,3 +12,5 @@ https://docs.google.com/document/d/1ueEEenMD1cvrARYrtxW7UHprCa5TZIZbHiXTWMhxsZ8/
 
 template gdd (game design document)
 https://docs.google.com/document/d/1pg8TPb_QwU8Br5dC52YIE5_BmuoCviYx6OLmTKakFzs/edit
+template gdd (game design document) link baru
+https://docs.google.com/document/d/1ueEEenMD1cvrARYrtxW7UHprCa5TZIZbHiXTWMhxsZ8/edit
